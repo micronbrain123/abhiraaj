@@ -148,7 +148,7 @@ const AboutPage = () => {
                 <p className="leading-relaxed">
                   Our journey has been marked by continuous learning, adaptation, and an unwavering 
                   commitment to excellence. From our headquarters in Sector-105, Faridabad, Haryana, 
-                  we've expanded our reach to serve clients across Delhi NCR, Vrindavan, Sonipat, 
+                  we&apos;ve expanded our reach to serve clients across Delhi NCR, Vrindavan, Sonipat, 
                   Rohtak, and Udaipur.
                 </p>
                 
@@ -340,7 +340,7 @@ const AboutPage = () => {
                 Ready to Work Together?
               </h3>
               <p className="text-gray-300 mb-6 max-w-xl mx-auto text-sm lg:text-base">
-                Let's discuss how our 15+ years of experience can help bring 
+                Let&apos;s discuss how our 15+ years of experience can help bring 
                 your next project to successful completion.
               </p>
               

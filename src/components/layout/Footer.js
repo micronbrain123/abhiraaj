@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image'
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -48,7 +49,7 @@ const Footer = () => {
             <div className="flex items-center space-x-3 mb-6">
               {/* Logo with enhanced styling */}
               <Link href="/" className="flex items-center space-x-3 group">
-                  <img 
+                  <Image  
                     src="/images/logo.jpg" 
                     alt="Abhiraaj Logo" 
                     className="w-8 h-10 lg:w-10 lg:h-12 object-contain transition-transform group-hover:scale-105"

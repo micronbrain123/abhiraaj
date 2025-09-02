@@ -90,7 +90,7 @@ const ContactPage = () => {
             </div>
             
             <h1 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-6">
-              Let's Start Your Next Project
+              Let&apos;s Start Your Next Project
             </h1>
             
             <p className="text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed">
@@ -137,7 +137,7 @@ const ContactPage = () => {
               Get in Touch
             </h2>
             <p className="text-base text-gray-600 max-w-2xl mx-auto leading-relaxed">
-              Choose your preferred way to reach us. We're here to help and respond 
+              Choose your preferred way to reach us. We&apos;re here to help and respond 
               quickly to all inquiries about our services and project opportunities.
             </p>
           </div>
@@ -187,7 +187,7 @@ const ContactPage = () => {
               Send Us a Message
             </h2>
             <p className="text-base text-gray-600 max-w-2xl mx-auto leading-relaxed">
-              Fill out the form below and we'll get back to you within 24 hours 
+              Fill out the form below and we&apos;ll get back to you within 24 hours 
               with a detailed response to your inquiry.
             </p>
           </div>
@@ -284,7 +284,7 @@ const ContactPage = () => {
                   </svg>
                 </button>
                 <p className="text-xs text-gray-500 mt-3">
-                  We'll respond within 24 hours with a detailed consultation
+                  We&apos;ll respond within 24 hours with a detailed consultation
                 </p>
               </div>
             </form>

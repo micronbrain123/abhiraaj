@@ -3,6 +3,7 @@
 import { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
+import Image from 'next/image'
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -67,7 +68,7 @@ const Header = () => {
           
           {/* Logo Section */}
           <Link href="/" className="flex items-center space-x-4 group">
-              <img 
+              <Image  
                 src="/images/logo.jpg" 
                 alt="Abhiraaj Logo" 
                 className="w-12 h-12 lg:w-14 lg:h-14 object-contain transition-transform group-hover:scale-105"

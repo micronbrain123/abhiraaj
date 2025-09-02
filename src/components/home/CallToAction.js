@@ -181,7 +181,7 @@ const CallToAction = () => {
             </div>
 
             <p className="text-sm text-gray-600 mb-6">
-              From Delhi NCR to Udaipur, we've helped businesses across industries achieve 
+              From Delhi NCR to Udaipur, we&apos;ve helped businesses across industries achieve 
               their goals with our comprehensive solutions and dedicated support.
             </p>
 
