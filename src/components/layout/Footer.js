@@ -51,7 +51,9 @@ const Footer = () => {
               <Link href="/" className="flex items-center space-x-3 group">
                   <Image  
                     src="/images/logo.jpg" 
-                    alt="Abhiraaj Logo" 
+                    alt="Abhiraaj Logo"
+                    width={56}   
+                    height={56}  
                     className="w-8 h-10 lg:w-10 lg:h-12 object-contain transition-transform group-hover:scale-105"
                   />
               </Link>

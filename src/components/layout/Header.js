@@ -71,6 +71,8 @@ const Header = () => {
               <Image  
                 src="/images/logo.jpg" 
                 alt="Abhiraaj Logo" 
+                width={56}
+                height={56}
                 className="w-12 h-12 lg:w-14 lg:h-14 object-contain transition-transform group-hover:scale-105"
               />
           </Link>
