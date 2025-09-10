@@ -93,7 +93,7 @@ const ProjectManagementPage = () => {
                   <h2 className="text-3xl font-bold text-gray-900 mb-6">Why Choose Our Services?</h2>
                   <p className="text-lg text-gray-600 mb-8 leading-relaxed">
                     With extensive experience managing complex projects across various industries, 
-                    we bring proven methodologies and best practices to ensure your project's success.
+                    we bring proven methodologies and best practices to ensure your project&apos;s success.
                   </p>
                   <div className="space-y-4">
                     {[
@@ -217,7 +217,7 @@ const ProjectManagementPage = () => {
         <div className="max-w-4xl mx-auto px-6 text-center">
           <h2 className="text-3xl font-bold text-white mb-6">Ready to Get Started?</h2>
           <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-            Let's discuss how our project management expertise can help you achieve your goals.
+            Let&apos;s discuss how our project management expertise can help you achieve your goals.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button className="px-8 py-3 bg-white text-gray-900 font-medium rounded-lg hover:bg-gray-100 transition-colors">
