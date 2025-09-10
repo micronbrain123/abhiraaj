@@ -327,7 +327,7 @@ const ManpowerSupplyPage = () => {
         <div className="max-w-4xl mx-auto px-6 text-center">
           <h2 className="text-3xl font-bold text-white mb-6">Ready to Find the Right Talent?</h2>
           <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-            Let's discuss your manpower requirements and find the perfect professionals for your project.
+            Let&apos;s discuss your manpower requirements and find the perfect professionals for your project.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button className="px-8 py-3 bg-white text-gray-900 font-medium rounded-lg hover:bg-gray-100 transition-colors">

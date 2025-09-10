@@ -421,7 +421,7 @@ const PropertyServicesPage = () => {
         <div className="max-w-4xl mx-auto px-6 text-center">
           <h2 className="text-3xl font-bold text-white mb-6">Ready to Start Your Property Journey?</h2>
           <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-            Whether you're buying, selling, or investing across North India, we're here to guide you through every step of the process.
+            Whether you&apos;re buying, selling, or investing across North India, we&apos;re here to guide you through every step of the process.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button className="px-8 py-3 bg-white text-black font-medium rounded-lg">

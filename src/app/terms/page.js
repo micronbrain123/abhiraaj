@@ -156,7 +156,7 @@ const TermsOfService = () => {
               Terms of Service
             </h1>
             <p className="text-xl text-gray-300 mb-6 max-w-3xl mx-auto leading-relaxed">
-              These terms govern your use of Abhiraaj's professional services and establish our mutual rights and responsibilities.
+              These terms govern your use of Abhiraaj&apos;s professional services and establish our mutual rights and responsibilities.
             </p>
             <div className="bg-white/10 backdrop-blur-sm rounded-lg px-6 py-3 inline-block">
               <p className="text-gray-200 text-sm">
@@ -180,7 +180,7 @@ const TermsOfService = () => {
             <div className="flex-1">
               <h2 className="text-2xl font-bold text-gray-800 mb-4">Professional Service Agreement</h2>
               <p className="text-gray-600 leading-relaxed">
-                Welcome to Abhiraaj's professional services. These Terms of Service outline the legal framework governing our business relationship and the provision of our comprehensive services including project management consulting, project billing, manpower supply, electromechanical items supply, and property services. By engaging our services, you acknowledge that you have read, understood, and agree to be bound by these terms.
+                Welcome to Abhiraaj&apos;s professional services. These Terms of Service outline the legal framework governing our business relationship and the provision of our comprehensive services including project management consulting, project billing, manpower supply, electromechanical items supply, and property services. By engaging our services, you acknowledge that you have read, understood, and agree to be bound by these terms.
               </p>
             </div>
           </div>

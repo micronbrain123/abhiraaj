@@ -185,7 +185,7 @@ const PrivacyPolicy = () => {
             
             <h3 className="text-2xl font-bold text-white mb-4">Questions About This Policy?</h3>
             <p className="text-gray-300 mb-8 max-w-2xl mx-auto leading-relaxed">
-              If you have any questions about this Privacy Policy or how we handle your personal information, please don't hesitate to contact us.
+              If you have any questions about this Privacy Policy or how we handle your personal information, please don&apos;t hesitate to contact us.
             </p>
             
             <div className="grid md:grid-cols-2 gap-6 max-w-2xl mx-auto">
